@@ -1,0 +1,10 @@
+site_name: pantherale0
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+site_url: https://pantherale0.github.io
+plugins:
+  - search
+  - awesome-pages
