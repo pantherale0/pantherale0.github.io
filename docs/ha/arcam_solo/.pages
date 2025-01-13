@@ -1,1 +1,7 @@
 title: Arcam Solo
+arrange:
+    - getting_started.md
+    - hardware_installation.md
+    - software_installation.md
+    - configuration.md
+    - ...
